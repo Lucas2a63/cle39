@@ -3,3 +3,6 @@ tranche 1 : 6 courses, 0 déjà faites, 6 à faire, sur 4 processus
   cnn_INDEP_s1         fait en  98.6 min   [2/6]   écoulé   98.6 min
   cnn_SYS_s1           fait en  99.0 min   [3/6]   écoulé   99.0 min
   cnn_INDEP_s0         fait en  99.0 min   [4/6]   écoulé   99.0 min
+  cnn_SYS_s2           fait en  95.2 min   [5/6]   écoulé  193.8 min
+  cnn_INDEP_s2         fait en  95.2 min   [6/6]   écoulé  193.8 min
+TRANCHE 1 TERMINÉE — 6 courses dans resultats/tranche_1.json
