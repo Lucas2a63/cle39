@@ -1,0 +1,1172 @@
+{
+ "tranches": {
+  "1": [
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": null
+   }
+  ],
+  "2": [
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": null
+   }
+  ],
+  "3": [
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": null
+   }
+  ],
+  "4": [
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": null
+   },
+   {
+    "bras": "SYS",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": null
+   }
+  ],
+  "5": [
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 0,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 1,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 2,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 3,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 4,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 5,
+    "lr_mult": 1.0
+   }
+  ],
+  "6": [
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 6,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 7,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 8,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 9,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 10,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "SEUL",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "SEUL10",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": 1.0
+   },
+   {
+    "bras": "COURT",
+    "arch": "cnn",
+    "seed": 11,
+    "lr_mult": 1.0
+   }
+  ],
+  "7": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 0,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 0,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 0,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 0,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 0,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 1,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 1,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 1,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 1,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 1,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 2,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 2,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 2,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 2,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 2,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 3,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 3,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 3,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 3,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 3,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 4,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 4,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 4,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 4,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 4,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 5,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 5,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 5,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 5,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 5,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 6,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 6,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 6,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 6,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 6,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 7,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 7,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 7,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 7,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 7,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 8,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 8,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 8,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 8,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 8,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 9,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 9,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 9,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 9,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 9,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 10,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 10,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 10,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 10,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 10,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 11,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 11,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 11,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 11,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 11,
+    "lr_mult": 0.125
+   }
+  ],
+  "8": [
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 12,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 12,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 12,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 12,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 12,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 13,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 13,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 13,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 13,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 13,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 14,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 14,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 14,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 14,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 14,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 15,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 15,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 15,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 15,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 15,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 16,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 16,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 16,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 16,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 16,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 17,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 17,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 17,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 17,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 17,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 18,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 18,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 18,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 18,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 18,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 19,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 19,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 19,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 19,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 19,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 20,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 20,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 20,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 20,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 20,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 21,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 21,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 21,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 21,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 21,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 22,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 22,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 22,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 22,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 22,
+    "lr_mult": 0.125
+   },
+   {
+    "bras": "SYS",
+    "arch": "mlp",
+    "seed": 23,
+    "lr_mult": null
+   },
+   {
+    "bras": "INDEP",
+    "arch": "mlp",
+    "seed": 23,
+    "lr_mult": null
+   },
+   {
+    "bras": "SEUL",
+    "arch": "mlp",
+    "seed": 23,
+    "lr_mult": 0.03125
+   },
+   {
+    "bras": "GRAND",
+    "arch": "mlp",
+    "seed": 23,
+    "lr_mult": 0.0625
+   },
+   {
+    "bras": "COURT",
+    "arch": "mlp",
+    "seed": 23,
+    "lr_mult": 0.125
+   }
+  ]
+ }
+}
